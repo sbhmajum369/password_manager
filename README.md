@@ -22,6 +22,8 @@ First install Python. Compatible versions are 3.10 to 3.12.
 4) Start the app: `streamlit run app.py`  
 
 
+**Use 2-factor authentication apps with QR code support**  
+
 
 ## Fixing `st.cache` warning  
 
